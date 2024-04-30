@@ -1,5 +1,5 @@
 
-import NewPost from "./NewPost";
+import NewPost from "../routes/NewPost";
 import Post from "./Post";
 import classes from './PostList.module.css'
 import { useState, useEffect } from "react";
